@@ -1,7 +1,5 @@
 # ChatExpress-Real-Time-Messaging-Application
 
-# ChatExpress: Real-Time Messaging Application
-
 ChatExpress is a fast and reliable web-based chat application designed for instantaneous messaging. Built with Node.js and Socket.IO, it delivers near-instant communication with an average message delay of less than 50ms and supports over 150 concurrent connections.
 
 ## Features
